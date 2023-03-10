@@ -1,0 +1,21 @@
+.large-box {
+    border: solid ;
+    border-color: black;
+    border-width: 2px;
+    width: 400px;
+    height: 400px;
+}
+.medium-box{
+    border: dashed;
+    border-color: red;
+    border-width: 2px;
+    width: 200px;
+    height: 200px;
+}
+.small-box {
+    border: dotted;
+    border-color: blue;
+    border-width: 2px;
+    width: 100px;
+    height: 100px;
+}
