@@ -1,0 +1,19 @@
+.clearfix {
+    position: relative;
+  }
+
+      .title {
+    border: 2px solid blue;
+    display: inline;
+  }
+
+  .detail {
+    position: absolute;
+    border: 2px dashed skyblue ;
+    display: inline;
+    right: 0;
+  }
+  
+  .img {
+    float: left;
+  }
