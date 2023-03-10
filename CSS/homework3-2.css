@@ -1,0 +1,23 @@
+.outer-box {
+    border: black 1px dotted ;
+    height: 200px;
+    width: 600px;
+  }
+
+  .inner-box {
+    border: red 1px solid;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    
+  }
+
+  .box {
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+  }
+
+  .space-between {
+      justify-content: space-between;
+  }
